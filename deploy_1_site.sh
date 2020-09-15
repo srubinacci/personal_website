@@ -5,6 +5,9 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub (main site)...\033[0m\n"
 
+rm -rf public
+git submodule add -f -b master https://github.com/srubinacci/srubinacci.github.io.git public
+
 # Add changes to git.
 git add .
 
