@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SARS-cov-2 | Simone Rubinacci</title>
+    <link>https://srubinacci.github.io/category/sars-cov-2/</link>
+      <atom:link href="https://srubinacci.github.io/category/sars-cov-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>SARS-cov-2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020. All rights reserved.</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srubinacci.github.io/images/icon_hu2413ddf41d6aaaed9311dbdbe4988d0f_11776_512x512_fill_lanczos_center_2.png</url>
+      <title>SARS-cov-2</title>
+      <link>https://srubinacci.github.io/category/sars-cov-2/</link>
+    </image>
+    
+    <item>
+      <title>High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs</title>
+      <link>https://srubinacci.github.io/publication/covid-met-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/covid-met-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

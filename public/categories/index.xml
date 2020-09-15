@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Simone Rubinacci</title>
+    <link>https://srubinacci.github.io/categories/</link>
+      <atom:link href="https://srubinacci.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020. All rights reserved.</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srubinacci.github.io/images/icon_hu2413ddf41d6aaaed9311dbdbe4988d0f_11776_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://srubinacci.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
