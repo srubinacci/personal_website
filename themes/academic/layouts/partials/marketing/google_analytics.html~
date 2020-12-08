@@ -1,4 +1,4 @@
-{{ $ga := site.Params.marketing.google_analytics | default site.GoogleAnalytics | default "UA-172835574-1" }}
+{{ $ga := site.Params.marketing.google_analytics | default site.GoogleAnalytics | default "" }}
 {{ $gtm := site.Params.marketing.google_tag_manager | default "" }}
 
 {{ if (in (slice (getenv "HUGO_ENV") hugo.Environment) "production") | and $ga | and (not $gtm) }}
