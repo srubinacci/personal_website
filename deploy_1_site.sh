@@ -9,7 +9,7 @@ rm -rf public
 git submodule add -f -b master https://github.com/srubinacci/srubinacci.github.io.git public
 
 # Add changes to git.
-git add .
+git add *
 
 # Commit changes.
 msg="rebuilding all site $(date)"
